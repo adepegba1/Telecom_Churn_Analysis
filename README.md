@@ -135,13 +135,16 @@ Standard scaling applied to features
 --------------------------------------------------------------------------
 
 ## 📈 Model Performance
-Confusion Matrix Summary
-Category	Count	Meaning
-True Negatives	934	Correctly predicted loyal customers
-False Positives	102	Predicted churn, but customer stayed
-True Positives	151	Correctly identified churners
-False Negatives	222	Missed churners
-Key Metrics
+
+**Confusion Matrix Summary**
+|Category|	Count|	Meaning|
+|-----------|-----------|-----------------|
+|True Negatives	|934|	Correctly predicted loyal customers|
+|False Positives	|102	|Predicted churn, but customer stayed|
+|True Positives	|151	|Correctly identified churners|
+|False Negatives	|222	|Missed churners|
+
+**Key Metrics**
 
 Accuracy: 82%
 
